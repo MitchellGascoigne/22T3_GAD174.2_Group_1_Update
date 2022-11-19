@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/An Vo/An.V_Scene.unity
-    guid: 461ec65d4639867429c220753c52d176
-  - enabled: 1
     path: Assets/Mitchell_Gascoigne/Scenes/Mitchell_Gascoigne.unity
     guid: 2cb24afc21b6c344d9d6f0b09f662dfe
+  - enabled: 1
+    path: Assets/An Vo/An.V_Scene.unity
+    guid: 461ec65d4639867429c220753c52d176
   m_configObjects: {}
